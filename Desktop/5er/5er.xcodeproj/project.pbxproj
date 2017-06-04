@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA05595A1EE33EBA000A0A38 /* TaskTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0559591EE33EBA000A0A38 /* TaskTableViewCell.swift */; };
 		DA4A6F801EDFB9B300359E05 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4A6F7F1EDFB9B300359E05 /* AppDelegate.swift */; };
 		DA4A6F821EDFB9B300359E05 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4A6F811EDFB9B300359E05 /* ViewController.swift */; };
 		DA4A6F851EDFB9B300359E05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA4A6F831EDFB9B300359E05 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA0559591EE33EBA000A0A38 /* TaskTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskTableViewCell.swift; sourceTree = "<group>"; };
 		DA4A6F7C1EDFB9B300359E05 /* 5er.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 5er.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA4A6F7F1EDFB9B300359E05 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DA4A6F811EDFB9B300359E05 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				DA4A6F7F1EDFB9B300359E05 /* AppDelegate.swift */,
 				DA4A6F811EDFB9B300359E05 /* ViewController.swift */,
 				DA4A6F831EDFB9B300359E05 /* Main.storyboard */,
+				DA0559591EE33EBA000A0A38 /* TaskTableViewCell.swift */,
 				DA4A6F891EDFB9B300359E05 /* Assets.xcassets */,
 				DA4A6F8B1EDFB9B300359E05 /* LaunchScreen.storyboard */,
 				DA4A6F8E1EDFB9B300359E05 /* Info.plist */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA05595A1EE33EBA000A0A38 /* TaskTableViewCell.swift in Sources */,
 				DA4A6F821EDFB9B300359E05 /* ViewController.swift in Sources */,
 				DA4A6F881EDFB9B300359E05 /* _er.xcdatamodeld in Sources */,
 				DA4A6F801EDFB9B300359E05 /* AppDelegate.swift in Sources */,
@@ -303,6 +307,7 @@
 				DA4A6F931EDFB9B300359E05 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
