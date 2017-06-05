@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA9F44721EDC778500B4589B"
-               BuildableName = "War.app"
-               BlueprintName = "War"
-               ReferencedContainer = "container:War.xcodeproj">
+               BlueprintIdentifier = "DA4A6F7B1EDFB9B300359E05"
+               BuildableName = "5er.app"
+               BlueprintName = "5er"
+               ReferencedContainer = "container:5er.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA9F44721EDC778500B4589B"
-            BuildableName = "War.app"
-            BlueprintName = "War"
-            ReferencedContainer = "container:War.xcodeproj">
+            BlueprintIdentifier = "DA4A6F7B1EDFB9B300359E05"
+            BuildableName = "5er.app"
+            BlueprintName = "5er"
+            ReferencedContainer = "container:5er.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA9F44721EDC778500B4589B"
-            BuildableName = "War.app"
-            BlueprintName = "War"
-            ReferencedContainer = "container:War.xcodeproj">
+            BlueprintIdentifier = "DA4A6F7B1EDFB9B300359E05"
+            BuildableName = "5er.app"
+            BlueprintName = "5er"
+            ReferencedContainer = "container:5er.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA9F44721EDC778500B4589B"
-            BuildableName = "War.app"
-            BlueprintName = "War"
-            ReferencedContainer = "container:War.xcodeproj">
+            BlueprintIdentifier = "DA4A6F7B1EDFB9B300359E05"
+            BuildableName = "5er.app"
+            BlueprintName = "5er"
+            ReferencedContainer = "container:5er.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
