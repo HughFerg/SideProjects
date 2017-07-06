@@ -16,3 +16,11 @@
 (define cube
   (lambda (x)
     (* x x x))) ;* function takes any number of arguments and returns product
+
+(define (cube2 x) ;Can also define args here (probably generally easier)
+  (* x x x))
+
+(define (pow1 x y) ; X to the Y power
+  (if (= y 0) ;IF STATEMENTS (if-then-else) format so in this case, if y == 0 then return 1, else multiply by x then recursively call function with y - 1
+      1
+      (* x (pow1 x (- y 1)))))
