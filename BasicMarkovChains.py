@@ -72,8 +72,9 @@ def main():
 
 
 """
-Could probably calculate expected distribution of restaurants using matricies,
-but hey
+Could/should probably calculate expected distribution of restaurants using
+matricies
 """
+
 if __name__ == "__main__":
     main()
