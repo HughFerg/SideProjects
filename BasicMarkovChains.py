@@ -71,5 +71,9 @@ def main():
     print("BWW: %s" % b)
 
 
+"""
+Could probably calculate expected distribution of restaurants using matricies,
+but hey
+"""
 if __name__ == "__main__":
     main()
